@@ -14,7 +14,14 @@
     => Assign Permissions to Users
 
 
-3. Dispatch
+3. Installing packages
+   pnpm i
+
+4.  Running the app
+     pnpm dev or npm run dev
+
+
+6. Dispatch
    => Approve before displaying
    => Create on behalf of a dispatcher
    => Edit on behalf    
